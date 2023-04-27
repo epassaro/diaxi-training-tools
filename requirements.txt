@@ -1,3 +1,5 @@
-funcy
-scikit-learn
-git+https://github.com/facebookresearch/detectron2.git
+deskew
+ipykernel
+pillow
+opencv-python
+pyodi
