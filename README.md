@@ -2,7 +2,7 @@
 
 Herramientas desarrolladas en el marco del [desafío _"IA por la Identidad"_](https://desafio-ia-por-la-identidad.fundacionsadosky.org.ar/) organizado por la Fundación Sadosky, el Ministerio de Ciencia, Tecnología e Innovación y Abuelas de Plaza de Mayo (🥈 2do Lugar)
 
-[Solicitar acceso al repositorio principal](https://github.com/epassaro/diaxi-training-tools/issues/3) | [Descargar el modelo y dataset]() | [Integrantes del equipo](https://github.com/epassaro/diaxi-training-tools/blob/main/EQUIPO.md) | [Notas de prensa](https://github.com/epassaro/diaxi-training-tools/blob/main/PRENSA.md)
+[Solicitar acceso al repositorio principal](https://github.com/epassaro/diaxi-training-tools/issues/3) | [Descargar el modelo y dataset](http://xmm-newton.fcaglp.unlp.edu.ar/) | [Integrantes del equipo](https://github.com/epassaro/diaxi-training-tools/blob/main/EQUIPO.md) | [Notas de prensa](https://github.com/epassaro/diaxi-training-tools/blob/main/PRENSA.md)
 
 ## Instalación
 
